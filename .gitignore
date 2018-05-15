@@ -1,0 +1,10 @@
+logs/**
+logs1/**
+logs3/**
+best15.hdf5
+structured.py
+data/**
+.ipynb_checkpoints/**
+__pycache__/**
+logs15012018/**
+**.csv
